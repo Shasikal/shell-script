@@ -1,5 +1,1 @@
-### shellscript
-i am learning shellscript anf github
-i am changing the code
-newer to this window
-this is completed
+hI i am learning devops with AWS
